@@ -55,15 +55,12 @@ line-height: 30px;
 @media(max-width:900px){
 h1{
   font-size: 44px;
-
 }
 h2{
   font-size: 44px;
 }
-.project-description {
+.project-description{
 padding: 0;
 text-align: center;
   }
-  
-  
 }
